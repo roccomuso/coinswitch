@@ -1,4 +1,4 @@
-# coinswitch [![NPM Version](https://img.shields.io/npm/v/coinswitch.svg)](https://www.npmjs.com/package/coinswitch) ![node](https://img.shields.io/node/v/coinswitch.svg) [![Dependency Status](https://david-dm.org/roccomuso/coinswitch.png)](https://david-dm.org/roccomuso/coinswitch) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+# coinswitch [![NPM Version](https://img.shields.io/npm/v/coinswitch.svg)](https://www.npmjs.com/package/coinswitch) ![node](https://img.shields.io/node/v/coinswitch.svg) [![Dependency Status](https://david-dm.org/roccomuso/coinswitch.png)](https://david-dm.org/roccomuso/coinswitch) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [<img width="100" align="right" src="https://raw.githubusercontent.com/roccomuso/coinswitch/master/altcoins.png?sanitize=true" alt="bitcoin">](https://github.com/roccomuso/coinswitch)
 
 > Browser and Node.js [Coinswitch.co](https://coinswitch.com) API client
 
