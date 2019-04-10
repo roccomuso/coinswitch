@@ -199,7 +199,7 @@ test('.makeOrder({..}): create an exchange order', async (t) => {
       offerReferenceId,
       userReferenceId: 'test-user',
       destinationAddress: { address: 'LXdmzmqSALB1DbJyA43b6prQCXKn1J6SdV' },
-      refundAddress: { address: '16iL2ZM4CfeiH3CrtrNjGVgR6ja2p5AFec' }
+      refundAddress: { address: '1KcuzqzcvkpY3K8eoNgmKbqhFvoeQXAoPa' }
     })
 
     t.ok(orderId, `got sandboxed orderId ${orderId}`)

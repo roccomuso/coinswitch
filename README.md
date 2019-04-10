@@ -69,7 +69,7 @@ const {
   offerReferenceId,
   userReferenceId: 'test-user',
   destinationAddress: { address: 'LXdmzmqSALB1DbJyA43b6prQCXKn1J6SdV' },
-  refundAddress: { address: '16iL2ZM4CfeiH3CrtrNjGVgR6ja2p5AFec' }
+  refundAddress: { address: '1KcuzqzcvkpY3K8eoNgmKbqhFvoeQXAoPa' }
 })
 
 console.log(`
@@ -112,7 +112,7 @@ Exchange Address: ${address}
   offerReferenceId: "...", // get it from generateOffer(..)
   userReferenceId: 'test-user',
   destinationAddress: { address: 'LXdmzmqSALB1DbJyA43b6prQCXKn1J6SdV' },
-  refundAddress: { address: '16iL2ZM4CfeiH3CrtrNjGVgR6ja2p5AFec' }
+  refundAddress: { address: '1KcuzqzcvkpY3K8eoNgmKbqhFvoeQXAoPa' }
 }
 ```
 
